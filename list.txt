@@ -1,9 +1,6 @@
-butter
-milk
-eggs
-sugar
-
 school supplies
 paper
 pen
 duotang
+markers
+glues
